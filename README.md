@@ -1,5 +1,6 @@
 # khoka
-Backend of khoka app
+
+Boilerplate for login and authetication
 
 # To run
 
