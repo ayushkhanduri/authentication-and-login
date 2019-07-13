@@ -1,4 +1,4 @@
-# khoka
+# Boilerplate
 
 Boilerplate for login and authetication
 
